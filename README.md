@@ -25,7 +25,7 @@ A 14640 twitter feeds were collected during February 2015. The feeds contained a
 
 Table 1: Dataset Attributes
 
-### Data Analysis Techniques
+### Data Analysis Techniques (Classifiers)
 
 * ensemble_classifier
 * KNN_Classifier
